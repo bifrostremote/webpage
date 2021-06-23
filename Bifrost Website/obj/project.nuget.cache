@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "YBWmdsxW/Pjf4/OhQ75RVEy9DY9Nd/KL7K5m805YZ8jv4bN3IjeTWgDSSZkzTNnUpbS4ze9FHLbUHHdzaBSUHQ==",
+  "dgSpecHash": "SKYK1VhSi5DoXlBYtbJwuSWdkOXAl2bKkg0T6C6axAPuoFNrHLiV/ceJJcWHS5jAsZ9d8P8fi0jdlr/aP0Ju5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HFGF\\source\\repos\\Bifrost Website\\Bifrost Website\\Bifrost Website.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\bifrost\\web\\Bifrost Website\\Bifrost Website.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\john\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\john\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,5 +1,12 @@
 ﻿@page
 @model Bifrost_Website.Pages.LoginModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Login";
 }
+
+<p>@Model.response</p>
+<form method="post">
+    <input type="text" asp-for="Username" placeholder="username" />
+    <input type="password" asp-for="Password" placeholder="password" />
+    <button type="submit">submit</button>
+</form>

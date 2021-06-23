@@ -38,3 +38,48 @@ C:\Users\HFGF\source\repos\Bifrost Website\Bifrost Website\obj\Debug\net5.0\ref\
 C:\Users\HFGF\source\repos\Bifrost Website\Bifrost Website\obj\Debug\net5.0\Bifrost Website.pdb
 C:\Users\HFGF\source\repos\Bifrost Website\Bifrost Website\obj\Debug\net5.0\Bifrost Website.genruntimeconfig.cache
 C:\Users\HFGF\source\repos\Bifrost Website\Bifrost Website\obj\Debug\net5.0\Bifrost Website.csproj.CopyComplete
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\appsettings.Development.json
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\appsettings.json
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.exe
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.deps.json
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.runtimeconfig.json
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.runtimeconfig.dev.json
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.dll
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\ref\Bifrost Website.dll
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.pdb
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.Views.dll
+E:\bifrost\web\Bifrost Website\bin\Debug\net5.0\Bifrost Website.Views.pdb
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.csproj.AssemblyReference.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.GeneratedMSBuildEditorConfig.editorconfig
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.AssemblyInfoInputs.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.AssemblyInfo.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.csproj.CoreCompileInputs.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.MvcApplicationPartsAssemblyInfo.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.RazorAssemblyInfo.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.RazorAssemblyInfo.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\staticwebassets\Bifrost Website.StaticWebAssets.Manifest.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\staticwebassets\Bifrost Website.StaticWebAssets.xml
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\scopedcss\bundle\Bifrost Website.styles.css
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.TagHelpers.input.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.TagHelpers.output.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.RazorCoreGenerate.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.RazorTargetAssemblyInfo.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.RazorTargetAssemblyInfo.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.Views.pdb
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.dll
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\ref\Bifrost Website.dll
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.pdb
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.genruntimeconfig.cache
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Bifrost Website.csproj.CopyComplete
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Machine.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Machines.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Profile.cshtml.g.cs
+E:\bifrost\web\Bifrost Website\obj\Debug\net5.0\Razor\Pages\Users.cshtml.g.cs
