@@ -3,6 +3,11 @@
 @{
 }
 
+<p>@Model.response</p>
 <form method="post">
+    <input type="text" asp-for="Username" placeholder="@Model.username" />
+    <input type="password" asp-for="Password" placeholder="password" />
+    <input type="text" asp-for="Email" placeholder="@Model.email" />
+    <input type="text" asp-for="Name" placeholder="@Model.name" />
     <button type="submit">submit</button>
 </form>

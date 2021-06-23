@@ -28,11 +28,11 @@ namespace Bifrost_Website.Pages
         {
             Api_call api = new Api_call();
             idModal res = await api.Login(Username, Password);
-            response = res.uid + "      .    " + res.cookie;
-            if (res.uid == "false")
+            response = res.uid;
+            if (res.uid != null)
             {
                 HttpContext.Session.SetString("user_id", res.uid);
-                HttpContext.Session.SetString("cookie", res.uid);
+                HttpContext.Session.SetString("cookie", res.cookie);
                 return RedirectToPage("./Index");
             } else
             {

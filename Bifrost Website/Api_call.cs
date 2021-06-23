@@ -36,8 +36,8 @@ namespace Bifrost_Website
             idModal id = new idModal();
             if (responseCode == 200)
             {
-                id.cookie = responseCookie1;
-                id.uid = responseCookie2;
+                id.cookie = responseCookie2;
+                id.uid = responseString;
             }
             return id;
         }
